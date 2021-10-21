@@ -27,3 +27,21 @@ Facts for 5
 In Germany and Austria, one is the grade for 'very good' 
 in French playing cards the Aces are marked with a '1' rather than an 'A'.
 1 is the exact amount of butler schools in the US", "1 is the number of public telephones in Kabul.
+
+Facts for 6
+
+In Germany and Austria, one is the grade for 'very good' 
+in French playing cards the Aces are marked with a '1' rather than an 'A'.
+1 is the exact amount of butler schools in the US", "1 is the number of public telephones in Kabul.
+
+Facts for 7
+
+In Germany and Austria, one is the grade for 'very good' 
+in French playing cards the Aces are marked with a '1' rather than an 'A'.
+1 is the exact amount of butler schools in the US", "1 is the number of public telephones in Kabul.
+
+Facts for 8
+
+In Germany and Austria, one is the grade for 'very good' 
+in French playing cards the Aces are marked with a '1' rather than an 'A'.
+1 is the exact amount of butler schools in the US", "1 is the number of public telephones in Kabul.
